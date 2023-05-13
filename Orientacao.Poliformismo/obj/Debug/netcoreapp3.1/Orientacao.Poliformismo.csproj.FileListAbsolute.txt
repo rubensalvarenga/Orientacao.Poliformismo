@@ -1,0 +1,14 @@
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\bin\Debug\netcoreapp3.1\Orientacao.Poliformismo.exe
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\bin\Debug\netcoreapp3.1\Orientacao.Poliformismo.deps.json
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\bin\Debug\netcoreapp3.1\Orientacao.Poliformismo.runtimeconfig.json
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\bin\Debug\netcoreapp3.1\Orientacao.Poliformismo.runtimeconfig.dev.json
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\bin\Debug\netcoreapp3.1\Orientacao.Poliformismo.dll
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\bin\Debug\netcoreapp3.1\Orientacao.Poliformismo.pdb
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\obj\Debug\netcoreapp3.1\Orientacao.Poliformismo.csproj.AssemblyReference.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\obj\Debug\netcoreapp3.1\Orientacao.Poliformismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\obj\Debug\netcoreapp3.1\Orientacao.Poliformismo.AssemblyInfoInputs.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\obj\Debug\netcoreapp3.1\Orientacao.Poliformismo.AssemblyInfo.cs
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\obj\Debug\netcoreapp3.1\Orientacao.Poliformismo.csproj.CoreCompileInputs.cache
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\obj\Debug\netcoreapp3.1\Orientacao.Poliformismo.dll
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\obj\Debug\netcoreapp3.1\Orientacao.Poliformismo.pdb
+C:\Projetos\Balta\Orientacao\src\Orientacao.Poliformismo\Orientacao.Poliformismo\obj\Debug\netcoreapp3.1\Orientacao.Poliformismo.genruntimeconfig.cache
